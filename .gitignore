@@ -112,3 +112,8 @@ CMakeLists.txt.user*
 
 # End of https://www.gitignore.io/api/qt,c++,linux,qtcreator
 
+### TODO list ###
+todo_list.txt
+
+### executable ###
+qt_bck_rn1
