@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
     }
 
     QApplication a{ argc, argv };
-    rn1::MainWindow w{ 3 };
+    rn1::MainWindow w{ threadCount };
     w.show();
 
     return a.exec();
